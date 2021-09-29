@@ -1,0 +1,30 @@
+ES0001,Setia Versa,new house
+ES0002,Pelangi Avenue,new house
+ES0003,Rayden,sample house
+ES0004,The Artiz,old house
+ES0005,Setia Nexus,new house
+ES0006,Calidora 2,old house
+ES0007,Camwood 2,sample house
+ES0008,Capitol Square 2,old house
+ES0009,Capitol Square,new house
+ES0010,Emilia,sample house
+ES0011,Cemara,sample house
+ES0012,Desiran,old house
+ES0013,Semi Detached Factory,sample house
+ES0014,Setia Centrix,old house
+ES0015,Setia Neo,sample house
+ES0016,Setia Nova,old house
+ES0017,Setia Sky 88,new house
+ES0018,Calidora,old house
+ES0019,Vallaris,sample house
+ES0020,Pelangi Boulevard,old house
+ES0021,Cemara,new house
+ES0022,Desiran,old house
+ES0023,Semi Detached Factory,new house
+ES0024,Setia Centrix,sample house
+ES0025,Setia Neo,sample house
+ES0026,Setia Nova,old house
+ES0027,Setia Sky 88,new house
+ES0028,Calidora,old house
+ES0029,Vallaris,sample house
+ES0030,Pelangi Boulevard,sample house

@@ -1,0 +1,9 @@
+000214209161,John Smith,0189876742,johnsmith@gmail.com
+000626077267,John Wick,0129282479,wickywick@gmail.com
+000930104013,Post Malone,01830036730,posty123@gmail.com
+000336250819,Sponge Bob,0145521854,spongyboby@gmail.com
+007179642281,Charlotte Linlin,0119349413,liiin@gmail.com
+005075478068,John Cena,01429107063,johnny@gmail.com
+000000000000,testing customer,0101010101,testing@gmail.com
+001132221123,Wo Zi Rock,01234567890,wozirock@gmail.com
+001122334455,Tan Bobo,0123456789,bobo@gmail.com
