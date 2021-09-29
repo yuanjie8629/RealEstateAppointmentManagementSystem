@@ -2,7 +2,7 @@
 
 ## Overview
 <p>This is a real estate appointment management system developed using Java. The objective of the assignments is to allow reinforce learning in analysing the issues of the requirements, design, and implementation of the reservation system. Furthermore, high-level and low-level designs of the system are created.</p>
-<p>FYI, this system is designed using controller with DAO design pattern.</p>
+<p>FYI, this system is designed using OOP approach and controller with DAO design pattern.</p>
 <p>The functions of the system are as follows:</p>
 
 1. Login Clerk and Customer Account
