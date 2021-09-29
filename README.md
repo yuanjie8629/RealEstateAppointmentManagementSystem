@@ -23,7 +23,7 @@
 Import the files into your project.<br>
 Run the project with Java compiler.
 
-Enter the system using username and password below:<br>
+Enter the system using clerk id and password below:<br>
 clerk id: CK0001<br>
 password: admin1
 
