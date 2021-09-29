@@ -32,10 +32,10 @@ password: admin1
 <img src="previews/UseCaseDiagram.png">
 
 ### Analysis Class Diagram
-<img src="previews/ClassDiagram-Analysis.png">
+<img src="previews/AnalysisClassDiagram.png">
 
 ### Design Class Diagram
-<img src="previews/ClassDiagram-Design.png">
+<img src="previews/DesignClassDiagram.png">
 
 ### Package Diagram
 <img src="previews/PackageDiagram.png">
