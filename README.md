@@ -59,7 +59,7 @@ Manual testing has been performed.
 
 ## Previews
 1. Login Clerk Account <br> <img src="previews/LoginClerk.png"><br><br>
-2. MainMenu <br> <img src="previews/MainMenu.png"><br><br>
+2. Main Menu <br> <img src="previews/MainMenu.png"><br><br>
 3. View Appointments <br> <img src="previews/ViewAppointments.png"><br><br>
 4. Search for Appointment <br> <img src="previews/SearchForAppointment.png"><br><br>
 5. Login Customer Account <br> <img src="previews/LoginCustomer.png"><br><br>
