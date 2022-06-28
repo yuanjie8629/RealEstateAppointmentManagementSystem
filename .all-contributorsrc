@@ -48,6 +48,18 @@
         "ideas",
         "test"
       ]
+    },
+    {
+      "login": "deviljin1009",
+      "name": "Pang Jia Jin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86699859?v=4",
+      "profile": "https://github.com/deviljin1009",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7
