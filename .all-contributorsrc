@@ -35,6 +35,19 @@
         "ideas",
         "userTesting"
       ]
+    },
+    {
+      "login": "threelittle87",
+      "name": "Wo Zi Rock",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86560855?v=4",
+      "profile": "https://github.com/threelittle87",
+      "contributions": [
+        "code",
+        "data",
+        "doc",
+        "ideas",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7
